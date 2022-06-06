@@ -1,0 +1,6 @@
+F:\Wedding_Hall\test\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+F:\Wedding_Hall\test\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\Wedding_Hall\test\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\Wedding_Hall\test\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+F:\Wedding_Hall\test\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+F:\Wedding_Hall\test\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
